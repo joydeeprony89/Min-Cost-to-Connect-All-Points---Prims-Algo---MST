@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp6.0-windows</TargetFramework>
+    <RootNamespace>Min_Cost_to_Connect_All_Points___Prims_Algo___MST</RootNamespace>
+  </PropertyGroup>
+
+</Project>
